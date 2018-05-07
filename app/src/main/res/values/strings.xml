@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Soccer Scores</string>
+    <string name="intial_number">0</string>
+    <string name="team_a_name">Liverpool FC</string>
+    <string name="goal_button">GOAL</string>
+    <string name="foul_button">FOUL</string>
+    <string name="team_b_name">Manchester United</string>
+    <string name="reset_button">Reset</string>
+</resources>
